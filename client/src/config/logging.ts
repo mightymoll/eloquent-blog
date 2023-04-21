@@ -1,3 +1,6 @@
+/**  logging provided by The Nerdy Canuck @Youtube
+ * https://github.com/joeythelantern/MERN-Stack-Typescript-Blog/blob/main/client/src/config/logging.ts */
+
 const DEFAULT_NAMESPACE = 'Client';
 
 const info = (message: any, namespace?: string) => {
